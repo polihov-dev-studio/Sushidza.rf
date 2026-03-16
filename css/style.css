@@ -7,13 +7,13 @@
   --txt:#f3f3f4;
   --muted:rgba(243,243,244,.72);
 
-  --accent:#ff2b2b;
-  --accent2:#ff5a2b;
-  --accentSoft:#ffcc7a;
+  --accent:#ff7a00;
+  --accent2:#ff9a2b;
+  --accentSoft:#ffd27a;
 
-  --accentRgb:255,43,43;
-  --accent2Rgb:255,90,43;
-  --accentSoftRgb:255,204,122;
+  --accentRgb:255,122,0;
+  --accent2Rgb:255,154,43;
+  --accentSoftRgb:255,210,122;
 
   --shadow: 0 20px 60px rgba(0,0,0,.55);
   --r:18px;
